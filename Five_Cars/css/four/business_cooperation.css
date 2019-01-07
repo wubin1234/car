@@ -1,0 +1,20 @@
+<!--列表设置-->
+.list-group-item {
+    position: relative;
+    display: block;
+    padding: 20px 15px;
+    margin-bottom: -1px;
+    background-color: #fff;
+    border: 2px solid #ddd;
+}
+.container-fluid> li > span {
+  position: relative;
+  float: left;
+  padding: 6px 12px;
+  margin-left: -1px;
+  line-height: 1.42857143;
+  color: orange;
+  text-decoration: none;
+  background-color: #FFFF;
+  border: 1px solid #ddd;
+}
